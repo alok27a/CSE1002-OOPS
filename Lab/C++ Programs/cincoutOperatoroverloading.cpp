@@ -28,3 +28,8 @@ int main()
     cout<<n;
     return 1;
 }
+
+// /*
+// For cascading(cin>>n1>>n2)
+// we have to return istream by refrence
+// * /
